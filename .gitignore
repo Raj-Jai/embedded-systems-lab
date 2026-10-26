@@ -1,0 +1,41 @@
+# Keil µVision / Win51 build output
+*.OBJ
+*.obj
+*.LST
+*.lst
+*.M51
+*.m51
+*.OMF
+*.omf
+*.HEX
+*.hex
+*.BIN
+*.bin
+*.abs
+*.lnp
+*.SBR
+*.sbr
+*.map
+*.uvgui.*
+*.uvopt
+*.uvproj.bak
+*.uvguix.*
+
+# Assembler / linker intermediates
+*.O
+*.o
+*.D
+*.d
+
+# Editor and OS artifacts
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Local scratch
+scratch/
+tmp/
